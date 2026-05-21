@@ -1,72 +1,33 @@
-<h1 align="center">Hi 👋, I'm Dithesh Gowda B</h1>
-<h3 align="center">CSE Graduate | Data Analytics | Turning Data into Insights with Python & SQL</h3>
+<h1 align="center">Hi 👋, I'm DITHESH GOWDA B</h1>
+<h3 align="center">CSE Graduate | Data Analytics | Building Projects with Python, SQL & Visualization</h3>
 
----
+- 🔭 I’m currently working on **- Building Data Analytics projects using Python, SQL & Power BI - Exploring real-world datasets to generate actionable insights**
 
-- 🔭 I’m currently working on  
-  - Building Data Analytics projects using Python, SQL & Power BI  
-  - Exploring real-world datasets to generate actionable insights  
+- 🌱 I’m currently learning **- Data Analytics (Python, Pandas, NumPy) - SQL (Joins, Aggregations, Optimization) - Data Visualization (Power BI)**
 
-- 🌱 I’m currently learning  
-  - Data Analytics (Python, Pandas, NumPy)  
-  - SQL (Joins, Aggregations, Optimization)  
-  - Data Visualization (Power BI)  
+- 👯 I’m looking to collaborate on **- Data Analytics projects (EDA, dashboards, business insights) - Open-source beginner-friendly data projects**
 
-- 👯 I’m looking to collaborate on  
-  - Data Analytics projects (EDA, dashboards, business insights)  
-  - Open-source beginner-friendly data projects  
+- 🤝 I’m looking for help with **- Advanced data visualization (Power BI / Tableau) - Writing optimized SQL queries for real-world datasets**
 
-- 🤝 I’m looking for help with  
-  - Advanced data visualization (Power BI / Tableau)  
-  - Writing optimized SQL queries for real-world datasets  
+- 👨‍💻 All of my projects are available at [- Check my GitHub repositories below](- Check my GitHub repositories below)
 
-- 👨‍💻 All of my projects are available at  
-  - Check my GitHub repositories below  
+- 📝 I regularly write articles on [- Not writing currently, focused on building projects](- Not writing currently, focused on building projects)
 
-- 📝 I regularly write articles on  
-  - Currently not writing, focused on building data projects  
+- 💬 Ask me about **- Data cleaning & analysis - SQL queries & database basics - Building beginner-friendly data projects**
 
-- 💬 Ask me about  
-  - Data cleaning & analysis  
-  - SQL queries & database basics  
-  - Building beginner-friendly data projects  
+- 📫 How to reach me **ditheshgowda692@gmail.com**
 
-- 📫 How to reach me  
-  - Email: ditheshgowda692@gmail.com  
+- 📄 Know about my experiences [https://drive.google.com/file/d/1tD8czHtChSRJEpMGrrPEpbSYda3_k0PK/view?usp=sharing](https://drive.google.com/file/d/1tD8czHtChSRJEpMGrrPEpbSYda3_k0PK/view?usp=sharing)
 
-- 📄 Know about my experiences  
-  - Resume: https://drive.google.com/file/d/1tD8czHtChSRJEpMGrrPEpbSYda3_k0PK/view?usp=sharing  
-
-- ⚡ Fun fact  
-  - I enjoy breaking down complex data into simple insights  
-
----
+- ⚡ Fun fact **Currently in a love/hate relationship with chess**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ditheshgowda" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
-</a>
-<a href="https://www.hackerrank.com/@ditheshgowda692" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" height="30" width="40" />
-</a>
-<a href="https://www.leetcode.com/dithesh" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" />
-</a>
-<a href="https://auth.geeksforgeeks.org/user/ditheshgu0mu" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="gfg" height="30" width="40" />
-</a>
+<a href="https://linkedin.com/in/ditheshgowda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ditheshgowda" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@ditheshgowda692" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@ditheshgowda692" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/dithesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dithesh" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/ditheshgu0mu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ditheshgu0mu" height="30" width="40" /></a>
 </p>
-
----
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
-<a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/></a>
-<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://seaborn.pydata.org/" target="_blank"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40"/></a>
-<a href="https://matplotlib.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="40" height="40"/></a>
-<a href="https://powerbi.microsoft.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40" height="40"/></a>
-<a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/></a>
-</p>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
